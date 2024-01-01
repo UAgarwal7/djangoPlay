@@ -1,3 +1,3 @@
-# djangoPlay
+# django 
 
-Testing Django following Mosh's tutorial to prepare for EduPrepMe project.
+Testing Django following Mosh's tutorial .
